@@ -13,6 +13,7 @@
     "url": "git+https://github.com/I-is-as-I-does/Vue-3-slide-fade.git"
   },
   "keywords": [
+    "vue",
     "transition",
     "slideup",
     "slidedown",
